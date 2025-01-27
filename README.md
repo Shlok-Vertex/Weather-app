@@ -148,7 +148,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact & Support
 
 - Create an issue for bug reports or feature requests
-- Send questions to: [your-email@example.com]
+- Send questions to: [mrmanishkr7911@gmail.com]
 
 ## 🙏 Acknowledgments
 
@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 2025-01-27
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Shlok srivastava]
