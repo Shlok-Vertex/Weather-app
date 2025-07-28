@@ -5,7 +5,7 @@ A modern, intuitive, and feature-rich weather application that provides real-tim
 ![Weather App Screenshot](screenshots/weather-app.png)
 *(Screenshot will be added once the app is styled)*
 
-## ✨ Features
+## ✨ Features. 
 
 ### Core Features
 - 🔍 Search weather by city name or zip code
