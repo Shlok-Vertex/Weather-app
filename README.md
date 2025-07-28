@@ -40,7 +40,7 @@ A modern, intuitive, and feature-rich weather application that provides real-tim
   - OpenWeather API
   - Geolocation API
 
-## 🚀 Setup Instructions
+## 🚀 Setup Instructions! 
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, or Edge)
