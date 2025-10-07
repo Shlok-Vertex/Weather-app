@@ -1,4 +1,5 @@
   # Weather App ☀️🌤️🌧️.   
+  
 
 A modern, intuitive, and feature-rich weather application that provides real-time weather information for any location worldwide. Get instant access to accurate weather data with a beautiful and responsive user interface.
 
